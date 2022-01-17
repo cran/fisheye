@@ -1,0 +1,9 @@
+967976afe3d3ee547beb537ed0b16c26 *DESCRIPTION
+6c102b6410e76b776048c801f86505d7 *NAMESPACE
+331d501f679733521d7eadfe6bfa311a *R/main.R
+1f1f10ee7175f928e43e7bc9fe2d3d91 *R/package.R
+4f04a33ec6aa818733f8703c4d0d0be6 *README.md
+4f1a1f0541f8f6f8c63203b78ac999bb *inst/tinytest/test_fisheye.R
+041298d58415b3739aa7fc8e97b07819 *man/fisheye-package.Rd
+b1fa9674b0597a3807c9930c6f947ba6 *man/fisheye.Rd
+0bd6caccdc9bfcdb4332caeab1279562 *tests/tinytest.R
